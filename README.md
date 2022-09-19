@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vahidf77
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Small projects
+- 👋 Hi, I'm @vahidf77
+- 👀 I'm web developer
+- 🌱 I'm fluent in HTML, CSS and JavaScript coding
+- 💞️ I'm looking for cooperation in small and large projects
 - 📫 How to reach me vahidfard1300@gmail.com
 
 <!---
